@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb://127.0.0.1/suporte_devs', { useNewUrlParser: true });
+mongoose.connect('mongodb+srv://desaamoedo:1234@suporte.ktkybui.mongodb.net/', { useNewUrlParser: true });
 
 
 const Schema = mongoose.Schema;

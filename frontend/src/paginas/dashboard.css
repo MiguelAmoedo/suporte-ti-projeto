@@ -1,0 +1,115 @@
+/* dashboard */
+
+/* dashboard.css */
+.container {
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .table {
+    margin-bottom: 30px;
+  }
+  
+  .alert {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f8f8f8;
+    color: #333;
+  }
+  
+  .button-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  select {
+    padding: 5px;
+  }
+
+  /* dashboard.css */
+
+.dashboard-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .dashboard-title {
+    color: #007bff;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .dashboard-subtitle {
+    color: #333;
+  }
+  
+  .dashboard-table {
+    margin-top: 20px;
+  }
+  
+  .dashboard-table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .dashboard-table td {
+    text-align: center;
+  }
+  
+  .dashboard-button-container button {
+    margin: 5px;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+  }
+  
+  .dashboard-button-container button:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .dashboard-select {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .dashboard-btn-designar {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .dashboard-alert {
+    color: red;
+    text-align: center;
+    margin: 10px 0;
+  }
+  

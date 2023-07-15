@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "64b2dee9c35198d2ead082fb"
+  },
+  "nome": "Exemplo de chamado",
+  "andar": "3º",
+  "assunto": "Problema na impressora",
+  "setor": "TI",
+  "descricao": "A impressora não está imprimindo corretamente",
+  "texto": "Ao tentar imprimir um documento, as cores estão saindo distorcidas e com falhas.",
+  "status": "concluído",
+  "funcionarios": [
+    null,
+    {
+      "$oid": "64b2debcc35198d2ead082f4"
+    }
+  ],
+  "dataCriacao": {
+    "$date": "2023-07-15T18:01:13.192Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "64b2e1939fe603862935fd8b"
+  },
+  "nome": "pablo",
+  "andar": "2",
+  "assunto": "estou com problemas de pc",
+  "setor": "digital",
+  "descricao": "asdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsadasdsad",
+  "texto": "me ajude",
+  "status": "concluído",
+  "dataCriacao": {
+    "$date": "2023-07-15T18:12:35.037Z"
+  },
+  "__v": 1,
+  "funcionarios": []
+}]
